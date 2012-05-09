@@ -9,6 +9,7 @@ public class HelloProject {
 	public static void main(String[] args) {
 		System.out.println("O projeto deixou um 'olá'!");
 		System.out.println("Tentando deixá-lo 'staged'");
+		
 	}
 
 }
