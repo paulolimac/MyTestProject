@@ -1,5 +1,5 @@
 package com.paulolimac.mytestproject;
 
-public class Classe12 {
+public class classe2 {
 
 }
